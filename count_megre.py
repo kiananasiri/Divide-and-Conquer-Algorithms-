@@ -1,3 +1,4 @@
+# Count inversions of an array.
 count = 0 
 def count_sort(arr , begin , end):
     mid = (begin+end) // 2
